@@ -3,7 +3,7 @@
 
 <!-- Girl Coding Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="girl coding">
+  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)" width="500" alt="girl coding">
 </p>
 
 ---
