@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Karunathilaka</h1>
 <h3 align="center">A Passionate Developer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="girl coding" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 ---
 
@@ -45,6 +45,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepakarunathilaka&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepakarunathilaka&layout=compact&theme=radical" />
 </p>
+
+---
+
+### 🎯 Current Focus
+- AI-based applications  
+- Eye-tracking & Autism detection systems  
+- Full-stack mobile & web applications  
+
+---
 
 ---
 
