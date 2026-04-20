@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img align="right" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/736x/35/69/e3/3569e3ed43007eaf235fe55cf27efe60.jpg)" width="250"/>
 
 - 🔭 Currently working on **Autism Screening Tool**
 - 🌱 Learning **Streamlit & Flutter**
