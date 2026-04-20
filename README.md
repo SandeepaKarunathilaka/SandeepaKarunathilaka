@@ -3,7 +3,7 @@
 
 <!-- Girl Coding Image -->
 <p align="center">
-  <img src="https://github.com/shikha09git/shikha09git" width="500" alt="girl coding">
+  <img src="[https://github.com/shikha09git/shikha09git](https://github.com/shikha09git/shikha09git)" width="500" alt="girl coding">
 </p>
 
 ---
