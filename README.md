@@ -18,7 +18,7 @@
   - EduSync  
 - 💬 Ask me about **React & React Native**
 - 📫 Email: **Sandeepa123karunathilaka@gmail.com**
-- ⚡ Fun fact: *I think I am funny 😄*
+
 
 ---
 
